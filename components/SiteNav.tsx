@@ -8,7 +8,6 @@ const NAV = [
   { href: "/projects", label: "Projects" },
   { href: "/info", label: "Info" },
   { href: "/contact", label: "Contact" },
-  { href: "/faq", label: "FAQ" },
 ];
 
 export default function SiteNav() {

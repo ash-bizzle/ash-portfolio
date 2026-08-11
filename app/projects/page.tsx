@@ -2,7 +2,7 @@ const PROJECTS = [
   {
     title: "AshFash",
     stack: "Python, MySQL, Flask, Vue",
-    summary: "A fashion app for browsing and organizing outfit inspiration.",
+    summary: "A full-stack fashion product browser with search, category browsing, and filters. Built a sync pipeline that pulls Uniqlo API listings into MySQL, with run logging and an admin refresh endpoint.",
     href: "#",
   },
   {
