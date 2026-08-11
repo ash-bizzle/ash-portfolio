@@ -13,15 +13,6 @@ export default function HomePage() {
           </p>
         </div>
         <div className="info-block">
-          <h2>Tools</h2>
-          <ul>
-            <li>Next.js / React</li>
-            <li>TypeScript</li>
-            <li>Figma</li>
-            <li>Canvas / WebGL</li>
-          </ul>
-        </div>
-        <div className="info-block">
           <h2>Experience</h2>
           <ul>
             <li>2024 — Present · Placeholder Studio</li>
