@@ -8,16 +8,15 @@ export default function HomePage() {
         <div className="info-block">
           <h2>About</h2>
           <p>
-            Hi, I&apos;m Ash — a product-minded technologist who loves
-            turning ideas into things people can actually use.
+            Hi, I&apos;m Ash — based in Seattle, building software that
+            turns ideas into things people can actually use.
           </p>
         </div>
         <div className="info-block">
-          <h2>Experience</h2>
+          <h2>Education & Experience</h2>
           <ul>
-            <li>2024 — Present · Placeholder Studio</li>
-            <li>2022 — 2024 · Placeholder Agency</li>
-            <li>2020 — 2022 · Freelance</li>
+            <li>2024 — Present · Software Engineer at Microsoft Corporation</li>
+            <li>2020 — 2024 · BS in Computer Science from Purdue University</li>
           </ul>
         </div>
       </div>

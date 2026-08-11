@@ -1,8 +1,8 @@
 const LINKS = [
-  { label: "Email", href: "mailto:hello@example.com", text: "hello@example.com" },
-  { label: "X / Twitter", href: "https://twitter.com/", text: "@placeholder" },
-  { label: "Instagram", href: "https://instagram.com/", text: "@placeholder" },
-  { label: "GitHub", href: "https://github.com/", text: "@placeholder" },
+  { label: "Email", href: "mailto:p.ashmitha@outlook.com", text: "p.ashmitha@outlook.com" },
+  { label: "Phone", text: "+1 6154249813" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/ashmitha-paramasivan/", text: "linkedin/ashmitha-paramasivan" },
+  { label: "GitHub", href: "https://github.com/ash-bizzle", text: "github/ash-bizzle" },
 ];
 
 export default function ContactPage() {
