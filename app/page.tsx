@@ -8,8 +8,8 @@ export default function HomePage() {
         <div className="info-block">
           <h2>About</h2>
           <p>
-            Placeholder bio paragraph. A couple of sentences about background,
-            focus areas, and what drives the work go here.
+            Hi, I&apos;m Ash — a product-minded technologist who loves
+            turning ideas into things people can actually use.
           </p>
         </div>
         <div className="info-block">
